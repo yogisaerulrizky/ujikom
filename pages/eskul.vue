@@ -74,6 +74,22 @@
           </div>
         </div>
       </div>
+      <div class="col-lg-4 mt-4">
+        <div class="card" style="width: 18rem">
+          <img src="/assets/eskul/r.jpg" class="card-img-top" alt="..." />
+          <div class="card-body">
+            <h5 class="card-title">r</h5>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 mt-4">
+        <div class="card" style="width: 18rem">
+          <img src="/assets/eskul/lp.jpg" class="card-img-top" alt="..." />
+          <div class="card-body">
+            <h5 class="card-title">ip</h5>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
