@@ -7,7 +7,7 @@
             <div class="col-lg-8">
                 <h1>SAMBUTAN</h1>
                 <p>assalamualaikum warahmatuwlohi wabarokatuh dengan adanya website di smkn4 tasikmlaya
-                    smkn4 adalah sekolah yang tinggi dan berpretasi dan lain lain
+                    smkn4 adalah sekolah yang tinggi dan berpretasi dan lain lainKami berharap dengan adanya web site di SMK Negeri 4 Tasikmalaya ini para pengunjung dapat mengenal lebih jauh tentang sekolah kami sehingga dapat mempererat tali silaturrahmi antara sekolah dengan masyarakat demi kemajuan kita bersama.
                 </p>
             </div>
         </div>
